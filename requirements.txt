@@ -1,0 +1,6 @@
+numpy>=1.21
+matplotlib>=3.4
+scikit-learn>=1.0
+Pillow>=9.0
+daltonlens>=0.1.5
+jupyter
